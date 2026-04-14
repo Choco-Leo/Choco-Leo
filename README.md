@@ -30,6 +30,8 @@ He trabajado en:
 * Otros: Git, APIs REST, documentación técnica
 * Infraestructura: Redes, switches, cableado estructurado
 
+[![My Skills](https://skillicons.dev/icons?i=git,js,nodejs,postman,html,css,ts,angular,bootstrap,postgres,mysql)](https://skillicons.dev)
+
 ---
 
 ## 📫 Contacto
