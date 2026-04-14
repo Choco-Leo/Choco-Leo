@@ -1,4 +1,4 @@
-# 👋 Hola, soy Héctor Martínez
+# 👋 Hola, soy Héctor Rios
 
 Estudios: Ingeniero en Sistemas Computacionales
 Centrado en: Desarrollador Backend
