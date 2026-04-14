@@ -45,5 +45,5 @@ He trabajado en:
 - Atención al detalle en la validación y manejo de datos
 - Capacidad para adaptarme a nuevos entornos y tecnologías
 - Persistente ante errores, buscando siempre la causa raíz
-
+- Uso de la organizacion modular
   
