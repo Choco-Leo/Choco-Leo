@@ -27,7 +27,7 @@ He trabajado en:
 * Backend: Node.js, Express.js
 * Base de datos: PostgresSQL, SQLServer
 * Frontend: HTML, CSS, Angular
-* Otros: Git, APIs REST, documentación técnica
+* Otros: Git, APIs REST
 * Infraestructura: Redes, switches, cableado estructurado
 
 [![My Skills](https://skillicons.dev/icons?i=git,js,nodejs,postman,html,css,ts,angular,bootstrap,postgres,mysql)](https://skillicons.dev)
