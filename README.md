@@ -3,7 +3,7 @@
 * Estudios: Ingeniero en Sistemas Computacionales
 * Centrado en: Desarrollador Backend
 * De: Ciudad Victoria, Tamaulipas, México
-
+* Mi Ultimo Proyecto Desplegado: https://ganely.netlify.app/
 ---
 
 ## Sobre mí
